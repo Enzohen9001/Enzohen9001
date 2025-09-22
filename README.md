@@ -1,10 +1,8 @@
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c1e1c1"/>
 
 <div align="center" style="width:100%;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C1E1C1&center=true&vCenter=true&width=600&lines=Oi,+seja+bem-vindo(a)+ao+meu+perfil!" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=600&lines=Oi,+seja+bem-vindo(a)+ao+meu+perfil!" />
 </div>
 
 <div align="center" style="width:100%;">
@@ -51,12 +49,13 @@
 ##
 <p align="center">
 
-  <img src="https://github.com/user-attachments/assets/e2ae3255-e317-4c74-88fa-9ac05696793b" alt="Hello Kitty" />
+![spider-man-web](https://github.com/user-attachments/assets/cf1f93ca-fbae-4361-b201-f11ed2455d6c)
 
-  <b>Para mais infrmações acesse:</b>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:enzohalbarboza@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/en_hbarboza/?next=%2F))
+  <b>Para mais informações acesse:</b>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-228B22?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:enzohalbarboza@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-228B22?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/en_hbarboza/?next=%2F)
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c1e1c1&height=100&section=footer"/>
 
